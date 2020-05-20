@@ -4,4 +4,4 @@
 - Azure function core tools
 - Service Bus
 
-<i> This function uses one input binding which is the service bus trigger
+<i> This function uses one input binding which is the service bus trigger.
